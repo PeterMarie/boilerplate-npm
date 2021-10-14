@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Peter M. Ogwara"
+	"author": "Peter M. Ogwara",
+	"description": "Just an app to learn node with"
 }
